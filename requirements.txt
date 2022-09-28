@@ -1,0 +1,2 @@
+openai==0.23.0
+configobj==5.0.6
