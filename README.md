@@ -47,3 +47,5 @@ model for summraisation.
    ```
 
 9. You can feed your input text within """ your text """ at `prompt` variable in summarisation file.
+
+10. You can generate the summaraisation with different temperture setting ranging [0-1]. SUggested setting in between 0.5 to 0.7. 
